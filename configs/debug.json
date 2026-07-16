@@ -1,0 +1,28 @@
+{
+  "AUTOPLAY": true,
+  "TRAINCTSPAWNTIME": false,
+  "STRESSTEST": false,
+  "RENDERING": true,
+  "FIXED_FRAMERATE": 20,
+  "midRoundTime": 0,
+  "gameModeLineUp": [
+    "DETONATION"
+  ],
+  "maxWins": 100,
+  "DOREALGAMEMODES": false,
+  "XPBASE": 5,
+  "MAKEDEBUGPAWNS": false,
+  "DISABLEDEBUGTEXT": false,
+  "NPC_WEAPONS_PURCHASE": false,
+  "REGISTER_WEAPON_KILLS": true,
+  "SET_SEED": null,
+  "TRAIN_TIME": 100,
+  "ENABLEGRENADES": true,
+  "RENDER_SCALE": 0.7,
+  "QUALITY_PRESET": 1,
+  "ANTICHEAT": false,
+  "DO_DEMO": false,
+  "SILENT_DAMAGE_ADJUST": true,
+  "DO_INTRO": false,
+  "FULLSCREEN": true
+}

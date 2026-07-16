@@ -1,0 +1,14 @@
+face_alignment
+librosa
+matplotlib
+numba
+numpy
+opencv_python
+PyAudio
+pydub
+pygame-ce
+rembg
+soundfile
+websockets
+onnxruntime
+qrcode

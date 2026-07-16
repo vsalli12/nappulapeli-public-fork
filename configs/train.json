@@ -1,0 +1,20 @@
+{
+  "AUTOPLAY": true,
+  "TRAINCTSPAWNTIME": true,
+  "STRESSTEST": true,
+  "RENDERING": false,
+  "FIXED_FRAMERATE": 20,
+  "midRoundTime": 3,
+  "gameModeLineUp": [
+    "DETONATION"
+  ],
+  "maxWins": 100,
+  "DOREALGAMEMODES": false,
+  "XPBASE": 5,
+  "MAKEDEBUGPAWNS": true,
+  "DISABLEDEBUGTEXT": false,
+  "NPC_WEAPONS_PURCHASE": false,
+  "REGISTER_WEAPON_KILLS": false,
+  "SET_SEED": null,
+  "TRAIN_TIME": 100
+}

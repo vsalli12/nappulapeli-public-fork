@@ -1,0 +1,21 @@
+BFG 6712
+Rocket Launcher 5276
+Machine Gun 4059
+Sniper 4058
+Desert Eagle 3997
+FAMAS 3616
+SMG 3594
+E-BR 3574
+EMG 3429
+AK-47 3252
+Shotgun 3059
+USP-S 3000
+Glock 2896
+Glock (SECONDARY) 2632
+TURRET 2346
+Frag Grenade 1528
+BABLON AK-47 1370
+BABLON AK-47 (SECONDARY) 1146
+Skull 127
+Turret Grenade 27
+Flashbang 15
